@@ -1,15 +1,52 @@
-# What is this?
+# Lab week 4 - github.dev editor
+Edit below according to lab 4 instructions:  
+https://github.com/kamrik/IntroText/blob/main/labs/lab_04.md
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+---
+Your GBC email: Rachelbb2011@hotmail.com
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+ ## Keyboard shortcuts
+ Shortcuts I frequently use:
+ - Ctrl-C (copy)
+ - Ctrl-V (paste)
+ - Ctrl-Alt-Delt (Task Manager)
+ - Ctrl-F (search)
 
-Preview the gif below to get a quick demo of github.dev in action.
+Shortcuts I would like to start using: 
+ - Ctrl-Z (undo)
+ - Win-D (show desktop)
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+ ## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+## Useful Links
+This is a compact way to render some useful links
+
+- **MS Office:** 
+[Outlook](https://outlook.office.com/) • 
+[Teams](https://teams.microsoft.com/v2/) •
+[OneDrive](https://georgebrowncollege-my.sharepoint.com/) •
+[Whiteboard](https://app.whiteboard.microsoft.com/)  
+- **GBC:** 
+[D2L](https://learn.georgebrown.ca) • 
+[AtKlass](https://app.atklass.com) • 
+[Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
+
+## More Resources
+
+Check out the [Useful Resources](links.md) page for useful links.
